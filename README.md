@@ -24,5 +24,5 @@ php flarum cache:clear
 
 - [Packagist](https://packagist.org/packages/zerosonesfun/flarum-bbcode-iframe)
 - [GitHub](https://github.com/zerosonesfun/flarum-bbcode-iframe)
-- [Discuss](https://discuss.flarum.org/
+- [Discuss](https://discuss.flarum.org/)
 - [Donate](https://www.wilcosky.com)
