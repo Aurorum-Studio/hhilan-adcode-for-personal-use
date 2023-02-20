@@ -1,6 +1,6 @@
 <?php
 
-namespace HHilan/adcode1;
+namespace aurorum/ad1;
 
 use Flarum\Extend;
 use s9e\TextFormatter\Configurator;
