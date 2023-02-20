@@ -1,7 +1,16 @@
 {
-    "name": "hhilan/ad1",
-    "description": "",
+    "name": "aurorum/ad1",
+    "description": "For personal use",
+    "keywords": [
+         "a"
+    ],
     "type": "flarum-extension",
+    "support": {
+        "issues": "https://github.com/Aurorum-Studio/flarum-better-iframe/issues",
+        "source": "https://github.com/Aurorum-Studio/flarum-better-iframe",
+        "forum": "https://discuss.flarum.org",
+        "website": "https://dev.aurorum.co"
+    },
     "homepage": "https://dev.aurorum.co",
     "require": {
         "flarum/core": "^1.0"
@@ -21,7 +30,7 @@
     },
     "extra": {
         "flarum-extension": {
-            "title": "ad",
+            "title": "Better-Iframe",
             "icon": {
                 "name": "fab fa-phoenix-framework",
                 "backgroundColor": "#238c59",
