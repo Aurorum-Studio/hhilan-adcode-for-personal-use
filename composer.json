@@ -21,7 +21,7 @@
     },
     "extra": {
         "flarum-extension": {
-            "title": "AD1",
+            "title": "ad",
             "icon": {
                 "name": "fab fa-phoenix-framework",
                 "backgroundColor": "#238c59",
