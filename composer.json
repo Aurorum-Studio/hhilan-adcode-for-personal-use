@@ -1,36 +1,16 @@
 {
-    "name": "zerosonesfun/flarum-bbcode-iframe",
-    "description": "Adds an iframe BBCode. [iframe=URL]",
+    "name": "Hhilan/ad1",
+    "description": "ad1,banner, 468*60",
     "keywords": [
         "flarum"
     ],
     "type": "flarum-extension",
-    "license": "MIT",
-    "support": {
-        "issues": "https://github.com/zerosonesfun/flarum-bbcode-iframe/issues",
-        "source": "https://github.com/zerosonesfun/flarum-bbcode-iframe",
-        "forum": "https://discuss.flarum.org"
-    },
-    "homepage": "https://www.wilcosky.com",
-    "funding": [
-        {
-            "type": "website",
-            "url": "https://www.wilcosky.com"
-        }
-    ],
     "require": {
         "flarum/core": "^1.0.0"
     },
     "require-dev": {
         "flarum/testing": "^1.0.0"
     },
-    "authors": [
-        {
-            "name": "Billy Wilcosky",
-            "email": "billy@wilcosky.com",
-            "role": "Creator"
-        }
-    ],
     "autoload": {
         "psr-4": {
             "ZerosOnesFun\\Iframe\\": "src/"
@@ -38,10 +18,10 @@
     },
     "extra": {
         "flarum-extension": {
-            "title": "BBCode - iframe",
+            "title": "Ad1",
             "category": "feature",
             "icon": {
-                "name": "BBCode - iframe",
+                "name": "fa fas-virus",
                 "backgroundColor": "#ddd",
                 "color": "#000"
             }
