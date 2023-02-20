@@ -1,28 +1,30 @@
 {
     "name": "hhilan/ad1",
-    "description": "ad1,banner, 468*60",
-    "keywords": [
-        "flarum"
-    ],
+    "description": "",
     "type": "flarum-extension",
+    "homepage": "https://dev.aurorum.co",
     "require": {
-        "flarum/core": "^1.0.0"
+        "flarum/core": "^1.0"
     },
-    "require-dev": {
-        "flarum/testing": "^1.0.0"
-    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Aurorum-Studio"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true,
     "autoload": {
         "psr-4": {
-            "ZerosOnesFun\\Iframe\\": "src/"
+            "Aurorum-Studio\\Iframe\\": "src/"
         }
     },
     "extra": {
         "flarum-extension": {
-            "title": "Ad1",
-            "category": "feature",
+            "title": "Better-Iframe",
             "icon": {
-                "name": "fa fas-virus",
-                "backgroundColor": "#ddd",
+                "name": "fab fa-phoenix-framework",
+                "backgroundColor": "#238c59",
                 "color": "#000"
             }
         }
